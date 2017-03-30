@@ -3,6 +3,7 @@
 ## About
 
 * This is the first website for SD Bike Tours out of San Diego, California
+* This was a static website
 * A new Wordpress site is currently under development
 
 ## Specifics
